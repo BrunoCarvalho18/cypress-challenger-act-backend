@@ -12,12 +12,6 @@
 - Javascript
 - Cypress
 
-## 🔤 **Design Pattern**
-
-- App actions
-- Link https://www.cypress.io/blog/2019/01/03/stop-using-page-objects-and-start-using-app-actions/
-
-
 ## :octocat: Run Code
 
 1. Download de project 
